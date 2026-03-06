@@ -1,0 +1,15 @@
+{
+    "is_light": false,
+    "current_mode": "dark",
+    "mode": [
+        "dark",
+        "light"
+    ],
+    "tts_speed": 1,
+    "tts_mute": true,
+    "phrases": [
+        "Where is the bathroom?",
+        "I need water",
+        "Emergency!"
+    ]
+}
