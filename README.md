@@ -9,7 +9,7 @@ As the systems integrator for this project, I used several open-source libraries
 * **Computer Vision:** Camera frame processing and ROI matrix slicing handled by `OpenCV`.
 * **Machine Learning:** Live Transcription powered by **OpenAI Whisper**.
   * Audio noise-filtering and gatekeeping powered by **Silero VAD**.
-  * ASL interpretation powered by a standard PyTorch inference model.
+  * ASL interpretation powered by a standard PyTorch inference model.  
     To run this application, you must install the following dependencies via terminal:
 * `pip install customtkinter`
 * `pip install opencv-python`
@@ -20,6 +20,7 @@ As the systems integrator for this project, I used several open-source libraries
 * `pip install transformer`
 * `pip install numpy`
 * `pip install pyaudio`
+
 
 
 
