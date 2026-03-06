@@ -20,3 +20,4 @@ To run this application, you must install the following dependencies via termina
 * `pip install transformer`
 * `pip install numpy`
 * `pip install pyaudio`
+
